@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/SwaragiBhoyar/SwaragiBhoyar/blob/main/I%20am%20swaragi%20bhoyar.jpg)
 <h1 align="center">Hi 👋, I'm Swaragi Bhoyar</h1>
 <h3 align="center">A tech proficient and enjoys staying up to date on the latest trends and innovations in the field.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif">
